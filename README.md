@@ -104,5 +104,5 @@ Python, pandas, NumPy, matplotlib, seaborn, Jupyter
 
 ## About me
 
-**YOUR NAME**
+**Daniyal Arqam Talha**
 [LinkedIn](https://www.linkedin.com/in/daniyal-arqam)
